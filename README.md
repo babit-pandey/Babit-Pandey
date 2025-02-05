@@ -4,7 +4,7 @@
 ---
 
 - 👨‍💻 Check out my portfolio at [**babitpandey.com.np**](https://babitpandey.com.np)—because why not, the domain was free!
-- 📝 I write articles on my notes app… but, spoiler alert, you can’t read them. It’s mostly a collection of random thoughts and a lot of *"I should really learn CSS grids."*
+- 📝 I write articles on my notes app… so you can’t read them. But It’s mostly random thoughts and a lot of *"I should really learn trendy frameworks"*
 - 📫 Want to reach me? Well, there’s my email: **info@babitpandey.com.np** (I know, it sounds professional, but just email me at **developingfun3@gmail.com** if you actually want a reply).
 - 📄 I’ve been coding for **5 years**, and yet, I still can’t figure out how to **center a div**.
 - ⚡ **Fun fact**: I make jokes when I’m uncomfortable...
